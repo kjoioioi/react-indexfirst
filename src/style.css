@@ -1,0 +1,31 @@
+.mass{
+  font-family: Lato;
+  margin: 5px;
+  font-size: 30px;
+ 
+}
+body{
+  background-color: gray;
+}
+.username{
+  text-align:center;
+  margin-top:90px;
+  border:1px solid black;
+  padding:10px;
+}
+footer {
+  bottom: 0;
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  background-color: rgb(245, 245, 245);
+  color: black;
+  padding: 30px;
+  margin-top: 200px;
+}
+.register{
+  text-align: center;
+}
+.decorationnone{
+  list-style-type:  none;
+}
